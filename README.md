@@ -1,1 +1,2 @@
-# HereketEdenTop
+# Hərəkət Edən Top
+## Sadə Javascript proqramı 
