@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(88, 182, 85);
+    
+    }
+          
+canvas {
+    background: gray;
+     width: 600px;
+    height: 400px; 
+    position: absolute;
+    
+    }
+
+    
+/* to get rid of scrollbars */
+ body {
+    margin: 0;
+    overflow: hidden;
+    } 
